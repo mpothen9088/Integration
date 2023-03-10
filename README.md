@@ -1,1 +1,2 @@
-# week6 Lab
+# week6 Lab on integration testing
+# Manu Pothen
